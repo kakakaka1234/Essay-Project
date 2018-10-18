@@ -1,3 +1,4 @@
+#My name is Luong Hoang
 # essay project
 demonstration about creating GitHub repository
 # Layout and background
